@@ -1,11 +1,13 @@
 Fluid Sim README
 
+
 How to use
 
 
   This project requires Python 3.9 with pygame installed
   
   Run via the main.py file
+
 
 Description
 
