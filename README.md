@@ -1,7 +1,7 @@
 Fluid Sim README
 
 
-How to use
+How to use:
 
 
   This project requires Python 3.9 with pygame installed
@@ -9,7 +9,7 @@ How to use
   Run via the main.py file
 
 
-Description
+Description:
 
 
   This is a highly unrealistic simple 2d fluid sim written in python
